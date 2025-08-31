@@ -58,8 +58,7 @@ The script also generates:
 
 2. Install dependencies:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
-
+   pip install -r requirements.txt
 
 3. Place the dataset file UCI_Credit_Card.csv in the project folder.
 
